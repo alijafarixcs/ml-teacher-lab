@@ -424,8 +424,9 @@ dist/
 *.egg-info/
 .eggs/
 
-# Jupyter Notebook checkpoints
+# Jupyter Notebook checkpoints and generated validation renders
 .ipynb_checkpoints/
+.validation/
 
 # Operating system metadata
 .DS_Store
